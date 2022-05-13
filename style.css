@@ -5,23 +5,36 @@ body {
 #sidebar{
 	margin-top:-0.5vw;
 	margin-left:73vw;
-    width:20vw;
-    height:97vh;
-    border:2px solid black; 	border-radius:1%;
-    background-color:#f0e02e;
+    	width:20vw;
+    	height:97vh;
+    	border:2px solid black; 
+	border-radius:1%;
+    	background-color:#f0e02e;
 	position:absolute;	
-}#pdfdown{	margin-top:3vh;	margin-left:2.3vw;	width:15vw;	height:15vw;}#checker{	margin-top:6vh;
+}
+
+#pdfdown{
+	margin-top:3vh;
+	margin-left:2.3vw;
+	width:15vw;
+	height:15vw;
+}
+
+#checker{
+	margin-top:6vh;
 	margin-left:2vw;
 	width:16vw;
-	height:16vw;}
+	height:16vw;
+}
 
 #artmain{
 	margin-top:-0.5vw;
 	margin-left:0vw;
-    width:70vw;
-    height:97vh;
-    border:2px solid black; 	border-radius:1%;
-    background-color:#f0e02e;
+    	width:70vw;
+    	height:97vh;
+    	border:2px solid black; 
+	border-radius:1%;
+    	background-color:#f0e02e;
 	position:absolute;	
 }
 
@@ -44,7 +57,7 @@ h1{
 
 p{
 	margin-top:1.5vh;
-	font-size:3.5vh;
+	font-size:3.5vw;
 	position:absolute;
 }
 
@@ -110,22 +123,23 @@ p{
 
 #bone{
 	margin-top:12vh;
-    margin-left:28vw; 
-    height:8vh;
+    	margin-left:28vw; 
+    	height:8vh;
 	position:absolute;
 	font-size:3vw;
 }
 
 #btwo{
-    margin-top:22vh;
+    	margin-top:22vh;
 	margin-left:23vw;
-    height:8vh;
+    	height:8vh;
 	position:absolute;
 	font-size:3vw;
 }
 
 #info{
-	font-size:4vh;
-    margin-top:38vh;
-	position:absolute;	text-align:center;
+	font-size:4vw;
+    	margin-top:38vh;
+	position:absolute;
+	text-align:center;
 }
