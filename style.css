@@ -1,0 +1,131 @@
+body {
+    background-color:#424f45;
+}
+
+#sidebar{
+	margin-top:-0.5vw;
+	margin-left:73vw;
+    width:20vw;
+    height:97vh;
+    border:2px solid black; 	border-radius:1%;
+    background-color:#f0e02e;
+	position:absolute;	
+}#pdfdown{	margin-top:3vh;	margin-left:2.3vw;	width:15vw;	height:15vw;}#checker{	margin-top:6vh;
+	margin-left:2vw;
+	width:16vw;
+	height:16vw;}
+
+#artmain{
+	margin-top:-0.5vw;
+	margin-left:0vw;
+    width:70vw;
+    height:97vh;
+    border:2px solid black; 	border-radius:1%;
+    background-color:#f0e02e;
+	position:absolute;	
+}
+
+h1{
+	font-size:4vmax;
+	text-align:center;
+	
+}
+
+#divone{
+    width:7%;
+    height:7%;
+    border:1px solid black;
+    margin-top:0vw;
+    margin-left:2vw;
+    position:absolute;
+    background-color:white;
+}
+
+
+p{
+	margin-top:1.5vh;
+	font-size:3.5vh;
+	position:absolute;
+}
+
+#divtwo{
+    width:7%;
+    height:7%;
+    border:1px solid black;
+    margin-top:0vw;
+    margin-left:11vw;
+    position:absolute;
+    background-color:white;
+}
+
+#divthree{
+    width:7%;
+    height:7%;
+    border:1px solid black;
+    margin-top:0vw;
+    margin-left:21vw;
+    position:absolute;
+    background-color:white;
+}
+
+#divfour{
+    width:7%;
+    height:7%;
+    border:1px solid black;
+    margin-top:0vw;
+    margin-left:31vw;
+    position:absolute;
+    background-color:white;
+}
+
+#divfive{
+    width:7%;
+    height:7%;
+    border:1px solid black;
+    margin-top:0vw;
+    margin-left:41vw;
+    position:absolute;
+    background-color:white;
+}
+
+#divsix{
+    width:7%;
+    height:7%;
+    border:1px solid black;
+    margin-top:0vw;
+    margin-left:51vw;
+    position:absolute;
+    background-color:white;
+}
+
+#divseven{
+    width:10%;
+    height:7%;
+    border:3px solid red;
+    margin-top:0vw;
+    margin-left:61vw;
+    position:absolute;
+    background-color:white;
+}
+
+#bone{
+	margin-top:12vh;
+    margin-left:28vw; 
+    height:8vh;
+	position:absolute;
+	font-size:3vw;
+}
+
+#btwo{
+    margin-top:22vh;
+	margin-left:23vw;
+    height:8vh;
+	position:absolute;
+	font-size:3vw;
+}
+
+#info{
+	font-size:4vh;
+    margin-top:38vh;
+	position:absolute;	text-align:center;
+}
